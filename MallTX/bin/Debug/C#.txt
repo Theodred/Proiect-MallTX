@@ -1,0 +1,5 @@
+channel.msdn.com    ---> Virtual academy
+youtube.com ---> C# calculator
+
+//Tutorial video cu pasii pe care i am parcurs. (Open Broadcasting Software)
+//Capitolul de C# - manualul de POO

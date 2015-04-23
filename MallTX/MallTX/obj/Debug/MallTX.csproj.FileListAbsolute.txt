@@ -1,0 +1,10 @@
+E:\Life\C#\Projects\Self\MallTX\MallTX\bin\Debug\MallTX.exe.config
+E:\Life\C#\Projects\Self\MallTX\MallTX\bin\Debug\MallTX.exe
+E:\Life\C#\Projects\Self\MallTX\MallTX\bin\Debug\MallTX.pdb
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.csprojResolveAssemblyReference.cache
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.Properties.Resources.resources
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.csproj.GenerateResource.Cache
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.exe
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.pdb
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.MallTX_Welcome.resources
+E:\Life\C#\Projects\Self\MallTX\MallTX\obj\Debug\MallTX.Conversation.resources
